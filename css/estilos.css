@@ -83,26 +83,29 @@ header nav a {
 #Habilidades {
     text-align: center;
 }
-
+ 
 .main-contenido{
-	margin: 30 px;
-	text-align: center;
-	background-color: grey;
-	padding: 20 px;
-	
+    margin: 30px;
+    text-align: center;
+    background-color: gray;
+    padding: 20px
 }
  
 .contenedor-cards{
-	display: flex;
-	flex-wrap: wrap; /* Permitir que los elementos bajen a otra fila*/
-	gap: 20 px;
-	justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap; /* permitir que los elementos bajen a otra fila*/
+    gap:20px;
+    justify-content: space-around;
 }
-
+ 
 .footer{
-	margin-top: 60 px;
-	text-align: center;
-	background-color: black;
-	color: #fff;
-	padding: 20 px;
+    margin-top: 60px;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 20px;
 }
+ 
+ 
+ 
+ 
